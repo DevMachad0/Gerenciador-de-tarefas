@@ -1,4 +1,4 @@
-from task_manager import Task, TaskManager
+from create_table.task_manager import TaskManager, Task
 
 def show_menu():
     print("===== Gerenciador de Tarefas =====")
